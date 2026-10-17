@@ -6,7 +6,7 @@
 <!-- Animated Typing -->
 <p align="center">
   <a href="https://github.com/HackPackClub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%92%BB+Welcome+to+HackPack+Club;Where+Students+Build+The+Future+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%92%BB+Welcome+to+HackPack+Club;Where+Students+Build+The+Future+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Public%20Repos-Check%20Them%20Out-00d9ff?style=for-the-badge&logo=github&logoColor=00d9ff&labelColor=0d1117" alt="Repos" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=HackPackClub&style=for-the-badge&color=00d9ff&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://visitcount.itsvg.in/api?id=HackPackClub&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views" />
 </p>
 
 <!-- Divider -->
@@ -34,7 +34,7 @@ Type: Student Coding Community
 Mission: Empowering students to build, learn & innovate through code
 Founded: 2026
 
-motto: "Code Together, Grow Together 🚀"
+motto: "Code Together, Grow Together ⚡"
 
 domains:
   - 🌐 Web Development
@@ -120,7 +120,14 @@ open_for: "Collaborations, Projects & New Members!"
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/HackPackClub">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HackPackClub&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b35&area=true&area_color=00d9ff&hide_border=true&custom_title=HackPack%20Club%20Contribution%20Graph" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HackPackClub&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b35&area=true&area_color=00d9ff&hide_border=true&custom_title=HackPack%20Club%20Contribution%20Graph&radius=16" alt="Activity Graph" />
+  </a>
+</p>
+
+<!-- 3D Contribution Calendar -->
+<p align="center">
+  <a href="https://github.com/HackPackClub">
+    <img src="https://ghchart.rshah.org/00d9ff/HackPackClub" alt="HackPack Club GitHub Chart" width="90%" />
   </a>
 </p>
 
@@ -130,7 +137,14 @@ open_for: "Collaborations, Projects & New Members!"
 
 <p align="center">
   <a href="https://github.com/HackPackClub">
-    <img src="https://github-profile-trophy.vercel.app/?username=HackPackClub&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=HackPackClub&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  </a>
+</p>
+
+<!-- Fallback: GitHub Stats Summary -->
+<p align="center">
+  <a href="https://github.com/HackPackClub">
+    <img src="https://github-readme-stats.vercel.app/api?username=HackPackClub&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="HackPack Stats" />
   </a>
 </p>
 
@@ -139,10 +153,14 @@ open_for: "Collaborations, Projects & New Members!"
 ## 🐍 **Contribution Snake**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HackPackClub/HackPackClub/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HackPackClub/HackPackClub/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HackPackClub/HackPackClub/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/HackPackClub/HackPackClub/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
-> 💡 *Set up the [snk GitHub Action](https://github.com/Platane/snk) to auto-generate this animation!*
+> 💡 *Run the **Generate Snake Animation** workflow from the [Actions tab](https://github.com/HackPackClub/HackPackClub/actions) to generate this animation!*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -154,7 +172,7 @@ open_for: "Collaborations, Projects & New Members!"
 
 <p align="center">
   Whether you're a beginner or a pro — there's a place for you at <b>HackPack Club</b>.<br/>
-  Let's build something amazing together! 🚀
+  Let's build something amazing together! ⚡
 </p>
 
 <br/>
