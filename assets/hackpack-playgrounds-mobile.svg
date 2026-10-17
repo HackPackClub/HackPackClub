@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="946" viewBox="0 0 640 946" role="img" aria-labelledby="title desc">
+  <title id="title">Pick your playground</title>
+  <desc id="desc">Six focus areas: Web Development, AI and Machine Learning, Mobile Apps, Cybersecurity and Ethical Hacking, Game Development, Full Stack Engineering.</desc>
+  <rect x="10" y="10" width="620" height="139" fill="#191919" stroke="#191919" stroke-width="3"/>
+  <rect x="3" y="3" width="620" height="139" fill="#ffde59" stroke="#191919" stroke-width="3"/>
+  <text x="23" y="34" fill="#191919" font-family="Courier New, monospace" font-size="19" font-weight="700">01</text>
+  <g transform="translate(545 49)" fill="none" stroke="#191919" stroke-width="3.5" stroke-linecap="square" stroke-linejoin="miter">
+    <rect x="0" y="2" width="49" height="38"/>
+    <path d="M0 12 H49 M11 6 H12 M18 6 H19 M18 20 L11 26 L18 32 M31 20 L38 26 L31 32"/>
+  </g>
+  <text x="23" y="78" fill="#191919" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="-0.5">WEB DEVELOPMENT</text>
+  <text x="23" y="114" fill="#191919" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400">For the browser.</text>
+  <rect x="10" y="167" width="620" height="139" fill="#191919" stroke="#191919" stroke-width="3"/>
+  <rect x="3" y="160" width="620" height="139" fill="#c9b6ff" stroke="#191919" stroke-width="3"/>
+  <text x="23" y="191" fill="#191919" font-family="Courier New, monospace" font-size="19" font-weight="700">02</text>
+  <g transform="translate(545 206)" fill="none" stroke="#191919" stroke-width="3.5" stroke-linecap="square" stroke-linejoin="miter">
+    <rect x="7" y="5" width="35" height="32"/>
+    <path d="M17 0 V5 M32 0 V5 M17 37 V43 M32 37 V43 M0 15 H7 M42 15 H49 M0 28 H7 M42 28 H49 M16 15 H33 V28 H16 Z M23 15 V28"/>
+  </g>
+  <text x="23" y="235" fill="#191919" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="-0.5">AI &amp; MACHINE LEARNING</text>
+  <text x="23" y="271" fill="#191919" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400">For the what-ifs.</text>
+  <rect x="10" y="324" width="620" height="139" fill="#191919" stroke="#191919" stroke-width="3"/>
+  <rect x="3" y="317" width="620" height="139" fill="#b9e6ce" stroke="#191919" stroke-width="3"/>
+  <text x="23" y="348" fill="#191919" font-family="Courier New, monospace" font-size="19" font-weight="700">03</text>
+  <g transform="translate(545 363)" fill="none" stroke="#191919" stroke-width="3.5" stroke-linecap="square" stroke-linejoin="miter">
+    <rect x="12" y="0" width="27" height="44"/>
+    <path d="M22 6 H29 M22 37 H29 M13 31 H38"/>
+  </g>
+  <text x="23" y="392" fill="#191919" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="-0.5">MOBILE APPS</text>
+  <text x="23" y="428" fill="#191919" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400">For life on the move.</text>
+  <rect x="10" y="481" width="620" height="139" fill="#191919" stroke="#191919" stroke-width="3"/>
+  <rect x="3" y="474" width="620" height="139" fill="#ff8c69" stroke="#191919" stroke-width="3"/>
+  <text x="23" y="505" fill="#191919" font-family="Courier New, monospace" font-size="19" font-weight="700">04</text>
+  <g transform="translate(545 520)" fill="none" stroke="#191919" stroke-width="3.5" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M25 0 L44 8 V23 Q42 35 25 44 Q8 35 6 23 V8 Z M16 21 L23 28 L35 15"/>
+  </g>
+  <text x="23" y="549" fill="#191919" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="-0.5">CYBERSECURITY</text>
+  <text x="23" y="585" fill="#191919" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400">For a safer internet.</text>
+  <rect x="10" y="638" width="620" height="139" fill="#191919" stroke="#191919" stroke-width="3"/>
+  <rect x="3" y="631" width="620" height="139" fill="#b9e6ce" stroke="#191919" stroke-width="3"/>
+  <text x="23" y="662" fill="#191919" font-family="Courier New, monospace" font-size="19" font-weight="700">05</text>
+  <g transform="translate(545 677)" fill="none" stroke="#191919" stroke-width="3.5" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M12 10 H38 L47 35 Q48 42 40 40 L30 32 H20 L10 40 Q2 42 3 35 Z M12 23 H24 M18 17 V29 M33 19 H34 M39 25 H40"/>
+  </g>
+  <text x="23" y="706" fill="#191919" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="-0.5">GAME DEVELOPMENT</text>
+  <text x="23" y="742" fill="#191919" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400">For the joy of play.</text>
+  <rect x="10" y="795" width="620" height="139" fill="#191919" stroke="#191919" stroke-width="3"/>
+  <rect x="3" y="788" width="620" height="139" fill="#ffde59" stroke="#191919" stroke-width="3"/>
+  <text x="23" y="819" fill="#191919" font-family="Courier New, monospace" font-size="19" font-weight="700">06</text>
+  <g transform="translate(545 834)" fill="none" stroke="#191919" stroke-width="3.5" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M2 10 L25 0 L48 10 L25 20 Z M2 22 L25 32 L48 22 M2 34 L25 44 L48 34"/>
+  </g>
+  <text x="23" y="863" fill="#191919" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="-0.5">FULL STACK</text>
+  <text x="23" y="899" fill="#191919" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400">For the whole picture.</text>
+</svg>

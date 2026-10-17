@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="80" viewBox="0 0 260 80" role="img" aria-labelledby="title desc">
+  <title id="title">EXPLORE THE CODE</title>
+  <desc id="desc"/>
+  <rect x="6" y="7" width="252" height="54" fill="#191919" stroke="#191919" stroke-width="2"/>
+  <rect x="1.5" y="1.5" width="252" height="54" fill="#ffde59" stroke="#191919" stroke-width="3"/>
+  <text x="18" y="36" fill="#191919" font-family="Courier New, monospace" font-size="18" font-weight="700">EXPLORE THE CODE</text>
+  <path d="M217 36 L233 20 M220 20 H233 V33" fill="none" stroke="#191919" stroke-width="3"/>
+</svg>

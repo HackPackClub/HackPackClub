@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="780" viewBox="0 0 640 780" role="img" aria-labelledby="title desc">
+  <title id="title">HackPack Club</title>
+  <desc id="desc">A student coding community. Code together. Grow together. All skill levels welcome. Established 2026.</desc>
+  <rect x="10" y="10" width="616" height="758" fill="#191919" stroke="#191919" stroke-width="3"/>
+  <rect x="2" y="2" width="616" height="758" fill="#fffdf5" stroke="#191919" stroke-width="3"/>
+  <rect x="2" y="2" width="616" height="58" fill="#ffde59" stroke="#191919" stroke-width="3"/>
+  <text x="25" y="39" fill="#191919" font-family="Courier New, monospace" font-size="25" font-weight="700">H / P</text>
+  <text x="455" y="38" fill="#191919" font-family="Courier New, monospace" font-size="19" font-weight="700">EST. 2026</text>
+  <text x="30" y="110" fill="#191919" font-family="Courier New, monospace" font-size="20" font-weight="700">A STUDENT CODING COMMUNITY</text>
+  <text x="25" y="220" fill="#191919" font-family="Arial, Helvetica, sans-serif" font-size="91" font-weight="900" letter-spacing="-5">HACKPACK</text>
+  <text x="25" y="321" fill="#191919" font-family="Arial, Helvetica, sans-serif" font-size="111" font-weight="900" letter-spacing="-5">CLUB.</text>
+  <text x="31" y="366" fill="#191919" font-family="Courier New, monospace" font-size="24" font-weight="700">CODE TOGETHER. GROW TOGETHER.</text>
+  <g transform="rotate(2 317 531)">
+    <rect x="59" y="424" width="508" height="251" fill="#191919" stroke="#191919" stroke-width="3"/>
+    <rect x="50" y="415" width="508" height="251" fill="#c9b6ff" stroke="#191919" stroke-width="3"/>
+    <rect x="50" y="415" width="508" height="43" fill="#ffde59" stroke="#191919" stroke-width="3"/>
+    <circle cx="72" cy="436" r="5" fill="#191919"/>
+    <circle cx="91" cy="436" r="5" fill="#191919"/>
+    <circle cx="110" cy="436" r="5" fill="#191919"/>
+    <text x="431" y="443" fill="#191919" font-family="Courier New, monospace" font-size="17" font-weight="700">pack.js</text>
+    <text x="77" y="503" fill="#191919" font-family="Courier New, monospace" font-size="27" font-weight="700">const pack = {</text>
+    <text x="94" y="548" fill="#191919" font-family="Courier New, monospace" font-size="27" font-weight="700">curiosity: true,</text>
+    <text x="94" y="593" fill="#191919" font-family="Courier New, monospace" font-size="27" font-weight="700">ideas: "unlimited"</text>
+    <text x="77" y="638" fill="#191919" font-family="Courier New, monospace" font-size="27" font-weight="700">};</text>
+  </g>
+  <path d="M536 289 L543 314 L568 321 L543 328 L536 353 L529 328 L504 321 L529 314 Z" fill="#ff8c69" stroke="#191919" stroke-width="3"/>
+  <rect x="31" y="706" width="253" height="36" fill="#b9e6ce" stroke="#191919" stroke-width="2"/>
+  <text x="43" y="732" fill="#191919" font-family="Courier New, monospace" font-size="21" font-weight="700">ALL SKILL LEVELS</text>
+  <text x="332" y="732" fill="#191919" font-family="Courier New, monospace" font-size="21" font-weight="700">LET'S BUILD ↗</text>
+</svg>
