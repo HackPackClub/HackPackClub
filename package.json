@@ -1,0 +1,12 @@
+{
+  "name": "hackpack-profile-artwork",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:opening": "node scripts/generate-opening.mjs"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "2.6.2",
+    "gifenc": "1.0.3"
+  }
+}

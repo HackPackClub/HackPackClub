@@ -1,6 +1,10 @@
 <div align="center">
 
 <picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 640px)" srcset="assets/hackpack-hero-mobile.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hackpack-hero.svg" />
+  <source media="(prefers-reduced-motion: no-preference) and (max-width: 640px)" srcset="assets/hackpack-opening-mobile.gif" type="image/gif" />
+  <source media="(prefers-reduced-motion: no-preference)" srcset="assets/hackpack-opening.gif" type="image/gif" />
   <source media="(max-width: 640px)" srcset="assets/hackpack-hero-mobile.svg" />
   <img src="assets/hackpack-hero.svg" alt="HackPack Club. A student coding community. Code together. Grow together. Established 2026." width="100%" />
 </picture>
